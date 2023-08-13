@@ -1,0 +1,118 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+    font-size: 2em;
+
+}
+h1{ 
+    color: #66BFBF;
+    font-size: 5.65rem;
+    padding-bottom: 15px;
+    margin: 50px auto 0 auto;
+    font-family: 'sacramento' , cursive;
+}
+h2{
+    font-weight: normal;
+    color: #66BFBF;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+    font-family: 'montserrat' , sans-serif;
+}
+h3{
+
+    color: #11999E;
+    font-family: 'montserrat' , sans-serif;
+}
+p{
+    font-size: medium;
+    line-height: 2;
+}
+hr{
+    border: dotted #58e4e4 6px;
+    border-bottom: none;
+    width: 4% ;
+    margin: 100px auto;
+}
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding:100px ;
+    }
+.middle{
+        margin: 100px 0;
+    }
+.bottom{
+    background-color:#66BFBF ;
+    padding: 50px 0 20px;
+
+    }
+.cloud1{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.cloud2{
+    position: absolute;
+    left: 100px;
+    top: 400px ;
+}
+.mountain
+{
+    background-color: #E4F9F5;
+    height:500px;
+    border-radius: 100%;
+}
+.intro{
+    width: 55%;
+    margin: auto;
+}
+.edu-details{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+   
+}
+.edu{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+   
+}
+.web{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.volley{
+    width: 25%;
+    float: left;
+    margin-right : 30px;
+}
+.contact-me{
+   width: 40%; 
+   margin: 40px auto 60px;
+}
+.footer-link{
+    font-size: 1rem;
+}
+a{
+    color:#11999E ;
+    font-family: 'montserrat' , sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6 ;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
